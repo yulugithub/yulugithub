@@ -1,117 +1,89 @@
-### Education Background
-- ​**2012.09–2017.06**  
-  ​**Southern Medical University**  
-  Bachelor of Medicine (MBBS)  
+### Educational Background
 
-- ​**2017.09–2020.06**  
-  ​**Southern Hospital, Department of Radiation Oncology**  
-  Master of Science (M.S.) in Oncology  
+- ​**2012.09—2017.06**  
+  Southern Medical University, Bachelor's Degree  
+
+- ​**2017.09—2020.06**  
+  Southern Hospital, Department of Radiation Oncology  
+  Master of Science (Oncology)  
   Supervisor: Prof. Yi Ding  
 
-- ​**2021.09–2023.06**  
-  ​**Southern Hospital, Department of Radiation Oncology**  
-  Doctor of Philosophy (Ph.D.) in Oncology  
+- ​**2021.09—2023.06**  
+  Southern Hospital, Department of Radiation Oncology  
+  Ph.D. (Oncology)  
   Supervisor: Prof. Yi Ding  
 
-- ​**2023.07–Present**  
-  ​**Southern Hospital**  
-  Postdoctoral Fellow  
+- ​**2023.07—Present**  
+  Southern Hospital, Postdoctoral Fellow  
 
 ---
 
-### Research Interests  
+### Research Focus
+
 - ​**Gut microbiota and radiation injury protection** (intestinal injury, bone marrow suppression)  
-- ​**Radiosensitization strategies in colorectal cancer**  
+- ​**Radiotherapy sensitization in colorectal cancer**  
 
 ---
 
-### Academic Achievements  
+### Academic Achievements
 
 #### ​**Publications**  
+5 first/co-first author SCI papers (1 Q1, 3 Q2), 11 total SCI publications. ​**7 manuscripts under review** (3 in revision: 2 Q1, 1 Q2):  
 1. ​**TXN Inhibitor Impedes Radioresistance of Colorectal Cancer Cells with Decreased ALDH1L2 Expression Via TXN/NF-κB Signaling Pathway**  
-   *British Journal of Cancer* (2022 IF: 9.1, Q2).  
-   ​**Co-first author** (Rank 1).  
-
+   *British Journal of Cancer* (2022, IF=9.1, Q2). ​**Co-first author (first position)**.  
 2. ​**Histone Methyltransferase SETDB1 Promotes Colorectal Cancer Proliferation through the STAT1-CCND1/CDK6 Axis**  
-   *Carcinogenesis* (2020 IF: 4.9, Q3).  
-   ​**Co-first author** (Rank 1).  
-
+   *Carcinogenesis* (2020, IF=4.9, Q3). ​**Co-first author (first position)**.  
 3. ​**CPT1A Mediates Radiation Sensitivity in Colorectal Cancer**  
-   *eLife* (2023 IF: 6.4, Q1 TOP).  
-   ​**Co-first author** (Rank 2).  
-
-4. ​**Gut Microbiota Dynamics and Fecal SCFAs After Colonoscopy: Accelerating Microbiome Stabilization by Clostridium butyricum**  
-   *Journal of Translational Medicine* (2023 IF: 6.1, Q2).  
-   ​**Co-first author** (Rank 2).  
-
-5. ​**Bioinformatic Identification of Key Pathways, Hub Genes, and Microbiota for Therapeutic Intervention in Helicobacter pylori Infection**  
-   *Journal of Cellular Physiology* (2021 IF: 6.5, Q2).  
-   ​**Co-first author** (Rank 3).  
-
-**Additional Contributions**:  
-- 11 SCI papers as co-author.  
-- ​**7 manuscripts under review** (3 in revision: 2 Q1, 1 Q2).  
-
----
+   *eLife* (2024, IF=6.4, Q1 TOP). ​**Co-first author (second position)**.  
+4. ​**Gut microbiota dynamics and fecal SCFAs after colonoscopy: accelerating microbiome stabilization by Clostridium butyricum**  
+   *Journal of Translational Medicine* (2024, IF=6.1, Q2). ​**Co-first author (second position)**.  
+5. ​**Bioinformatic identification of key pathways, hub genes, and microbiota for therapeutic intervention in Helicobacter pylori infection**  
+   *Journal of Cellular Physiology* (2021, IF=6.5, Q2). ​**Co-first author (third position)**.  
 
 #### ​**Patents**  
-1. ​**Invention Patent**: *5hmC-Based Molecular Biomarker Detection Model for Colorectal Cancer* (ZL 202210250395.5).  
-   ​**Second Inventor** (Issued: Aug 2022).  
-
-2. ​**Invention Patent**: *Lacticaseibacillus Rhamnosus DY801 Strain and Applications* (ZL 202211621368.0).  
-   ​**Second Inventor** (Issued: Sep 2023).  
-
-3. ​**Invention Patent**: *Salivarius Lactobacillus DY802 and Applications* (ZL 202211621413.2).  
-   ​**Third Inventor** (Issued: Oct 2023).  
-
-4. ​**Invention Patent**: *Fermented Mucilaginous Lactobacillus CYQ09 and Applications* (ZL 202211621377.X).  
-   ​**Third Inventor** (Issued: Aug 2023).  
-
-5. ​**Invention Patent**: *AI-Driven Diagnostic System for Gastrointestinal Tumors* (ZL 202311368699.2).  
-   ​**Second Inventor** (Issued: Feb 2024).  
-
-6. ​**Utility Model Patent**: *Mouse X-ray Radiation Mold for Experimental Use* (ZL 201822268723.6).  
-   ​**Fifth Inventor** (Issued: Dec 2019).  
-
-7. ​**International Patents Filed**:  
-   - *Lacticaseibacillus Rhamnosus DY801 and Application Thereof* (PY-AU-24031, Australia).  
-   - *Lacticaseibacillus Rhamnosus DY801 and Application Thereof* (PY-US-24030, USA).  
+- ​**Granted**:  
+  1. *Method for constructing colorectal cancer model based on 5hmC biomarkers* (ZL 202210250395.5, 2nd inventor, 2022).  
+  2. *Lacticaseibacillus rhamnosus DY801 strain and applications* (ZL 202211621368.0, 2nd inventor, 2023).  
+  3. *Salivarius Lactobacillus DY802 strain and applications* (ZL 202211621413.2, 3rd inventor, 2023).  
+  4. *Limosilactobacillus fermentum CYQ09 strain and applications* (ZL 202211621377.X, 3rd inventor, 2023).  
+  5. *AI-assisted diagnostic system for gastrointestinal tumors* (ZL 202311368699.2, 2nd inventor, 2024).  
+- ​**Utility Model Patent**:  
+  *Mouse irradiation mold for X-ray experiments* (ZL 201822268723.6, 5th inventor, 2019).  
+- ​**International Applications**:  
+  *Lacticaseibacillus rhamnosus DY801* (Australia: PY-AU-24031; U.S.: PY-US-24030, 2nd inventor).  
 
 ---
 
-#### ​**Honors & Awards**  
-1. ​**National Scholarship** (2018–2019).  
-2. ​**Outstanding Graduate Student**, Southern Medical University (2018–2019, 2021–2022).  
-3. ​**First-Class Academic Scholarship**, Southern Medical University (2021–2022).  
-4. ​**Outstanding Graduate Award** (2020, 2023).  
+### Honors & Awards  
+1. National Scholarship (2018-2019)  
+2. Outstanding Graduate Student, Southern Medical University (2018-2019, 2021-2022)  
+3. Outstanding Graduate, Southern Medical University (2020, 2023)  
+4. First-Class Academic Scholarship, Southern Medical University (2021-2022)  
 
 ---
 
-#### ​**Conference Presentations**  
-**Oral Presentations**:  
-- ​**China Gut Microbiota Conference** (Beijing, 2023).  
-- ​**12th Chinese Conference on Radiation & Environmental Biophysics** (Shantou, 2023).  
-- ​**CSTRO Gastrointestinal Radiotherapy Symposium** (Shanghai, 2023).  
-- ​**19th CSTRO Annual Meeting** (Beijing, 2024).  
-
-**Poster Presentations**:  
-- ​**IDDF 2023** (Hong Kong) – *Travel Award Recipient*.  
-- ​**ASTRO 2024** (San Diego, USA).  
-- ​**ASM Microbe 2024** (Atlanta, USA).  
-- ​**IDDF 2024** (Hong Kong).  
-
-**Published Abstracts**:  
-- *Gut* (IF: 24.5), *Journal of Clinical Oncology* (IF: 45.3).  
+### Conference Presentations  
+- ​**Oral Presentations**:  
+  1. China Gut Conference (2023, Beijing)  
+  2. 12th National Conference on Radiation & Environmental Biophysics (2023, Shantou)  
+  3. CSTRO Gastrointestinal Symposium (2023, Shanghai)  
+  4. 19th CSTRO Annual Meeting (2024, Beijing)  
+- ​**Poster Presentations**:  
+  1. International Digestive Disease Forum (IDDF 2023/2024, Hong Kong; *Gut* abstract)  
+  2. ASTRO Annual Meeting (2024, San Diego)  
+  3. ASM Microbe (2024, Atlanta)  
+- ​**Travel Award**: IDDF 2023 (Hong Kong).  
+- ​**ASCO 2024**: Abstract published in *Journal of Clinical Oncology*.  
 
 ---
 
-#### ​**Mentorship**  
-- Supervised student teams awarded ​**Silver Prizes**:  
-  1. ​**Guangdong Provincial Division**, China International College Innovation Competition (2024).  
-  2. ​**Southern Medical University**, 10th Innovation Competition (2024).  
+### Mentorship  
+- ​**China International College Students' Innovation Competition**  
+  - Provincial Silver Award (Guangdong, 2024)  
+  - University Silver Award (Southern Medical University, 2024)  
 
 ---
 
-#### ​**Research Funding**  
-- ​**National Natural Science Foundation of China (NSFC)**: Participated in 3 General Programs.  
-- ​**Provincial/Municipal Grants**: Contributed to 3 Guangdong-funded projects.  
+### Funded Projects  
+- ​**National Natural Science Foundation of China (NSFC)**: 3 General Programs (participant).  
+- ​**Guangdong Provincial and Municipal Funds**: 3 projects (participant).  
